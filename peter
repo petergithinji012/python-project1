@@ -1,0 +1,13 @@
+number=evl(input("Enter the student numbers:"))
+if number==1:
+  print("Gold")
+elif number==2:
+  print("silver")
+elif number==3:
+   print("Bronze")
+else:
+   print("Thank you for attending")
+   
+   git remote add git@github.com:petergithinji012/demo-repo.git
+   git commit -m
+   git pus -u git@github.com:petergithinji012/demo-repo.git
